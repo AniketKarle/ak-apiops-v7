@@ -22,6 +22,8 @@ products:
 
 apis:
   - name: sgw-test-api
+    gateways:
+      - name: "self-hosted-gateway-2"
 
 tags:
 
