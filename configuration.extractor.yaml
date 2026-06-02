@@ -1,0 +1,38 @@
+apis:
+  - sgw-test-api
+
+backends:
+  - ignore
+
+gateways:
+  - ignore
+
+diagnostics:
+  - ignore
+
+groups:
+  - ignore
+
+loggers:
+  - ignore
+
+namedValues:
+  - ignore
+
+products:
+  - ignore
+
+subscriptions:
+  - ignore
+
+tags:
+  - ignore
+
+policyFragments:
+  - ignore
+
+versionSets:
+  - ignore
+
+workspaces:
+  - ignore
