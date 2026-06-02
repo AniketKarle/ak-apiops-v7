@@ -5,7 +5,7 @@ backends:
   - ignore
 
 gateways:
-  - ignore
+  - openshift-gateway
 
 diagnostics:
   - ignore
