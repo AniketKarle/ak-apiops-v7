@@ -1,0 +1,30 @@
+apimServiceName: azure-apim-prod01
+
+namedValues:
+
+policies:
+
+loggers:
+
+diagnostics:
+
+gateways:
+
+backends:
+
+versionSets:
+
+groups:
+
+subscriptions:
+
+products:
+
+apis:
+  - name: sgw-test-api
+
+tags:
+
+policyFragments:
+
+workspaces:
