@@ -4,8 +4,7 @@ apis:
 backends:
   - ignore
 
-gateways:
-  - ignore
+gateways: []
 
 diagnostics:
   - ignore
