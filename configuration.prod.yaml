@@ -9,9 +9,8 @@ loggers:
 diagnostics:
 
 gateways:
-  - name: self-hosted-gateway-2
-    apis:
-      - name: test-sgw-api
+  - name: "openshift-gateway" # The name as it exists in your DEV artifacts
+    newName: "self-hosted-gateway-2" # The name you want it to have in PROD
     
 backends:
 
