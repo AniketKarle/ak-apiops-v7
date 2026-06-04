@@ -1,5 +1,5 @@
 apis:
-  - sgw-test-api
+  - test-sgw-api
 
 backends:
   - ignore
