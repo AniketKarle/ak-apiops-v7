@@ -3,6 +3,8 @@ info:
   title: sgw-test-api
   description: This API is used for testing the self-hosted gateway health.
   version: '1.0'
+servers:
+  - url: https://azure-apim-unit.azure-api.net/sgw-test
 paths:
   /health-api:
     get:
