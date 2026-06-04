@@ -23,7 +23,7 @@ subscriptions:
 products:
 
 apis:
-  - name: test-sgw-api
+  - name: sgw-test-api
 
 tags:
 
