@@ -9,6 +9,9 @@ loggers:
 diagnostics:
 
 gateways:
+  - name: self-hosted-gateway-2
+    apis:
+      - name: test-sgw-api
     
 backends:
 
