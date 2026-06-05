@@ -9,6 +9,7 @@ paths:
   /api:
     get:
       summary: api
+      description: api
       operationId: api
       responses:
         '200':
